@@ -2,3 +2,4 @@
 and keeps track of your code.
 ---GitHub, on the other hand, is a service that let you host, 
 share, and manage your code files on the internet.
+---GitHub uses Git underneath,
