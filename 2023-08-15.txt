@@ -1,0 +1,1 @@
+Git is a version control system that manages and keeps track of your code.
